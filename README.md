@@ -1,5 +1,4 @@
-# frame-guided-monte-carlo
-
+# A minimal scalar benchmark for FRAME guided Monte Carlo reweighting using admissibility weighted path sampling.
 A minimal scalar case demonstration of the FRAME guided Monte Carlo
 reweighting pipeline. The goal of this first version is to stand up the
 path sampling machinery and verify that the self normalized importance
