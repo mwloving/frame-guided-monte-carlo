@@ -1,4 +1,5 @@
 # A minimal scalar benchmark for FRAME guided Monte Carlo reweighting using admissibility weighted path sampling.
+This repository is intended as a minimal public reference implementation of governed path reweighting before higher dimensional and operator valued extensions.
 A minimal scalar case demonstration of the FRAME guided Monte Carlo
 reweighting pipeline. The goal of this first version is to stand up the
 path sampling machinery and verify that the self normalized importance
