@@ -154,8 +154,8 @@ measured against each other on identical ground.
 
 ## Author
 
-Matthew Loving, PhD
-ORS Quantum LLC
+Matthew W. Loving, PhD  
+ORS Quantum LLC  
 matthew.loving@orsquantum.com
 
 ## Citing
