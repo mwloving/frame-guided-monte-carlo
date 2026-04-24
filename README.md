@@ -169,4 +169,4 @@ short form:
 
 ## License
 
-MIT. See `LICENSE`.
+Apache 2.0
